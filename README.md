@@ -1,0 +1,2 @@
+How to use the cookWithMe Application
+The cookWithMe application is used to record and store cooking recipe ingredients, steps, descriptions, and unit of measurements. To use this application, the user will need to open the file with a Microsoft virtual studio application. The user will now be able to run the application by simply opening the folder of the application with a Microsoft Virtual Studio and then selecting the option to run the program
